@@ -1,6 +1,6 @@
 # Alexey Shemiakin
 ## About me
-I'm a businessman who wishes to improve his own company by using IT technologies and learning to create his own web application. It's a very difficult goal, but I have already some skills in it and am ready to improve them.
+I'm thirty eight years old. I have my own small business that needs improvement through web technologies. I would like to learn by creating my own web application for my company and perhaps become profocient in full-stack development.
 ## Basic skills
 * HTML
 * CSS
