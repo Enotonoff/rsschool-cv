@@ -143,3 +143,8 @@ import handleInputFocus from '../../custom-hooks/handleInputFocus/handleInputFoc
 
 export default InputSymbol;
 ```
+### Courses
+Only self-study
+### Languages
+* Russian (native)
+* English (pre intermediate, according to https://www.efset.org)
