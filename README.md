@@ -1,1 +1,1 @@
-https://Enotonoff.github.io/rsschool-cv/cv
+[Link to CV](https://Enotonoff.github.io/rsschool-cv/cv)
